@@ -51,6 +51,7 @@ button{
     border: 2px solid hsl(0, 0%, 95%);
     border-radius: 2rem;
     outline: none;
+    font-family: 'Lexend Deca', sans-serif;
 }
 button:hover{
     cursor: pointer;
