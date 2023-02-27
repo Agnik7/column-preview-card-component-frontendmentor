@@ -9,6 +9,7 @@ body{
     display: grid;
     font-size: 15px;
     place-items: center;
+    background-color:hsl(0, 0%, 95%);
 }
 .card{    
     display: flex;
